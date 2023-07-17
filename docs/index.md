@@ -2,4 +2,4 @@
 share: true
 ---
 
-Testing things out.
+Publishing all my notes here. Hope they are useful to anyone else. 
