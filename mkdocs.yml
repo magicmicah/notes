@@ -1,6 +1,6 @@
 site_name: Micah's Notes
 site_description: Published notes from Micah
-site_url: https://magicmicah.github.io/notes/
+site_url: https://notes.micahmagruder.com
 
 theme:
     name: 'material'
